@@ -1,2 +1,2 @@
 # app-calculadora
- Calculadora feita com HTML, Bootstrap e JavaScript
+ Calculadora feita com JavaScrip, HTML e Bootstrap
